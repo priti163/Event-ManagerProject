@@ -1,0 +1,27 @@
+.event-list-container {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.event-card {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.event-title {
+    margin: 0 0 10px;
+    color: #333;
+}
+
+.event-date {
+    margin: 0;
+    color: #666;
+}
+
+.event-description {
+    margin: 10px 0 0;
+}
